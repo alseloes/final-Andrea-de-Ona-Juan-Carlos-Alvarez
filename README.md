@@ -13,7 +13,7 @@ Camada 2
 git clone https://github.com/alseloes/final-Andrea-de-Ona-Juan-Carlos-Alvarez
 
 # Ingresa al directorio del final
-cd fe3-final
+cd final-Andrea-de-Ona-Juan-Carlos-Alvarez
 
 # Elimina la referencia remota al "origin" del repositorio clonado
 git remote remove  origin
